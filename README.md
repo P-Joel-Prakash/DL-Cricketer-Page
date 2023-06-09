@@ -1,4 +1,4 @@
-**# DL-Cricketer-Page**
+# DL-Cricketer-Page
 
 Cricketer Page
 
